@@ -5,7 +5,8 @@
   "description": "Generate random page numbers and update URL",
   "permissions": [
     "activeTab",
-    "scripting"
+    "scripting",
+    "storage"
   ],
   "action": {
     "default_popup": "popup.html"
